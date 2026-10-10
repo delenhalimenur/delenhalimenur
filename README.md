@@ -2,24 +2,25 @@
 
 **Electrical & Electronics Engineer | MSc Student in Aviation Technologies**
 
-I'm interested in aviation technologies, data analytics, and AI-driven engineering solutions.
+I work on aviation data analysis and explainable machine learning, with a focus on understanding flight behavior from sensor time series.
 
-## 🔬 Research interests
-- Flight Data Recorder (FDR) analytics and flight anomaly detection
-- Flight phase identification and explainable AI (XAI)
-- Predictive maintenance and battery remaining useful life (RUL)
-- Avionics, sensor fusion, and autonomous systems
+## Featured research
 
-## 🛠️ Tools & technologies
-Python · Pandas · NumPy · SciPy · GitHub · VS Code
+### ✈️ [NASA FDR Flight Data Analytics](https://github.com/delenhalimenur/NASA-FDR-Flight-Data-Analytics)
 
-## ✈️ Current research
-My master's research focuses on phase-aware and explainable AI approaches to predictive flight anomaly detection using FDR data.
+My master's research explores phase-aware flight forecasting, candidate anomaly analysis, and synthetic CAS early-warning scenarios.
 
-## 📂 Portfolio roadmap
-- Aviation Flight Data Analytics
-- Automatic Flight Phase Detection
-- Explainable Flight Anomaly Detection
-- Battery Health and RUL Prediction
+- Flight-level evaluation across 3,672 flights.
+- Persistence and Ridge baselines compared with phase-specific LSTM models.
+- Integrated Gradients explanations and flight-event visualizations.
+- Offline experiments with documented results and limitations; real-fault and live-operation performance are not established.
 
-*I'll share reproducible research and engineering projects here as they become ready.*
+## Tools
+
+Python · NumPy · Pandas · SciPy · PyTorch · Matplotlib · GitHub
+
+## Research interests
+
+Flight data analytics · Explainable AI · Flight-phase identification · Predictive maintenance · Battery health and remaining useful life
+
+I aim to share research with clear methods, measured results, and honest limitations.
